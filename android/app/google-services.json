@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616513229005",
+    "project_id": "friendsgram-76148",
+    "storage_bucket": "friendsgram-76148.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616513229005:android:3d7c574c57bf74e76c9984",
+        "android_client_info": {
+          "package_name": "com.example.friends_gram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoCUViiRmyr0TiM3Fme7CqluWZQ-Un3r0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
